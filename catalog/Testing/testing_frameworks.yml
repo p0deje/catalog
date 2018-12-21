@@ -13,6 +13,7 @@ projects:
   - riot
   - rspec
   - rubydoctest
+  - yard-doctest
   - shindo
   - test-unit
   - test_inline
